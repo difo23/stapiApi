@@ -106,7 +106,7 @@ coverage
 ############################
 # Strapi
 ############################
-
+package-lock.json
 exports
 .cache
 build
